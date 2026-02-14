@@ -190,9 +190,9 @@ The hint deduction system ensures the game is not purely guess-based but decisio
 
 ▶️ How to Run
 
-Clone the repository: git clone https://github.com/your-username/repo-name.git
-Install dependencies: pip install pillow
-Run: python main.py
+* Clone the repository: git clone https://github.com/your-username/repo-name.git
+* Install dependencies: pip install pillow
+* Run: python main.py
 
 
 🌟 Future Improvements
